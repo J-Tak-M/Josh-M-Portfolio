@@ -1,4 +1,10 @@
 # Josh Martin Portfolio
+## Index
+1. [Resume](###Resume)
+2. 
+3. 
+4. 
+
 ### Resume
 
 ### Papers & Research
