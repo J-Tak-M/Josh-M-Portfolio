@@ -13,6 +13,9 @@
 11. [Skills](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#skills)
 
 ### Statement of Originality
+This Portfolio contains personal, private, and confidential information with supporting documents that have been earned, created, written, and designed by Joshua Martin. None of the documents contained within shall be copied, duplicated, or distributed without expressed permission. All parties mentioned in this document have granted permission to use their names. 
+
+I certify that all information in this portfolio is true and complete.
 
 ### Contact Information
 
