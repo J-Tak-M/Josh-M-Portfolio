@@ -1,7 +1,7 @@
 # Josh Martin Portfolio
 ## Index
 1. [Resume](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#resume)
-2. 
+2. [Papers & Research](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#papers--research)
 3. 
 4. 
 
