@@ -3,7 +3,7 @@
 1. [Resume](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#resume)
 2. [Papers & Research](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#papers--research)
 3. [Scripts](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#scripts)
-4. [Programs](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#projects)
+4. [Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#projects)
 
 ### Resume
 
