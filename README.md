@@ -1,4 +1,4 @@
-# Josh Martin Portfolio
+# Josh Martin's Portfolio
 ## Index
 1. [Statement of Originality](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#statement-of-originality)
 2. [Introduction](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#introduction)
