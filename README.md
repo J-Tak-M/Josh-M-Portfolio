@@ -97,6 +97,8 @@ ________________________________________________________________________________
 
 ##### Cyber Security Skills
 - Windows and Linux Hardening
+- Windows Defender Firewall
+- Iptables
 - NMAP
 - THC-Hydra
 - Metasploit
