@@ -11,15 +11,19 @@
 9. [Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#projects)
 
 ### Statement of Originality
+_______________________________________________________________________________________________________________________________________________
 This Portfolio contains personal, private, and confidential information with supporting documents that have been earned, created, written, and designed by Joshua Martin. None of the documents contained within shall be copied, duplicated, or distributed without expressed permission. All parties mentioned in this document have granted permission to use their names. 
 
 I certify that all information in this portfolio is true and complete.
 
 ### Introduction
+_______________________________________________________________________________________________________________________________________________
 
 ### Education
+_______________________________________________________________________________________________________________________________________________
 
 ### Work & Volunteer Experience
+_______________________________________________________________________________________________________________________________________________
 #### Theatre Technician | 09/2016 - 09/2019
 Bella Rose Arts Centre | Halifax West High School
 
@@ -43,17 +47,22 @@ Raspberry Pi Life Size 3d Scanner Project | Halifax West High School
 
 
 ### Resume
+_______________________________________________________________________________________________________________________________________________
 
 ### Certifications
+_______________________________________________________________________________________________________________________________________________
 
 ### Papers & Research
+_______________________________________________________________________________________________________________________________________________
 Below is a link to the repository containing all papers and research documents I have written.
 
 https://github.com/J-Tak-M/Papers-Research
 
 
 ### Scripts
+_______________________________________________________________________________________________________________________________________________
 Below is a link to the repository containing various project scripts I have written.
 
 ### Projects
+_______________________________________________________________________________________________________________________________________________
 Below is a link/s to various repositories of projects I have made.
