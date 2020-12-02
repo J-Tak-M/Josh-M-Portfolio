@@ -5,10 +5,9 @@
 3. [Education](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#education)
 4. [Work & Volunteer Experience](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#work--volunteer-experience)
 5. [Resume](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#resume)
-6. [Certifications](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#certifications)
+6. [Certifications & Courses](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#certifications--courses)
 7. [Papers & Research](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#papers--research)
-8. [Scripts](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#scripts)
-9. [Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#projects)
+8. [Scripts & Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#scripts--projects)
 
 ### Statement of Originality
 _______________________________________________________________________________________________________________________________________________
@@ -57,7 +56,7 @@ Raspberry Pi Life Size 3d Scanner Project | Halifax West High School
 ### Resume
 _______________________________________________________________________________________________________________________________________________
 
-### Certifications / Courses
+### Certifications & Courses
 _______________________________________________________________________________________________________________________________________________
 ##### SAFE1001: Introduction to the Nova Scotia Occupational Health and Safety Act
 09/13/2019
@@ -71,14 +70,11 @@ Below is a link to the repository containing all papers and research documents I
 https://github.com/J-Tak-M/Papers-Research
 
 
-### Scripts
+### Scripts & Projects
 _______________________________________________________________________________________________________________________________________________
-Below is a link to the repository containing various project scripts I have written.
+Below are linkk to repositories containing various projects scripts I have created.
 
 Basic iptables script to implement firewall rules: https://github.com/J-Tak-M/FirewallScript1
 
 Basic Powershell script to check computer logs with optional output to a HTML file: https://github.com/J-Tak-M/PowershellScript1
 
-### Projects
-_______________________________________________________________________________________________________________________________________________
-Below is a link/s to various repositories of projects I have made.
