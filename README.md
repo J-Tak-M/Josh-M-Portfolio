@@ -68,7 +68,7 @@ https://github.com/J-Tak-M/Papers-Research
 
 ### Scripts & Projects
 _______________________________________________________________________________________________________________________________________________
-Below are linkk to repositories containing various projects scripts I have created.
+Below are link to repositories containing various projects scripts I have created.
 
 Basic iptables script to implement firewall rules: https://github.com/J-Tak-M/FirewallScript1
 
