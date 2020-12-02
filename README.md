@@ -63,6 +63,10 @@ https://github.com/J-Tak-M/Papers-Research
 _______________________________________________________________________________________________________________________________________________
 Below is a link to the repository containing various project scripts I have written.
 
+Basic iptables script to implement firewall rules: https://github.com/J-Tak-M/FirewallScript1
+
+Basic Powershell script to check computer logs with optional output to a HTML file: https://github.com/J-Tak-M/PowershellScript1
+
 ### Projects
 _______________________________________________________________________________________________________________________________________________
 Below is a link/s to various repositories of projects I have made.
