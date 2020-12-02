@@ -57,8 +57,12 @@ Raspberry Pi Life Size 3d Scanner Project | Halifax West High School
 ### Resume
 _______________________________________________________________________________________________________________________________________________
 
-### Certifications
+### Certifications / Courses
 _______________________________________________________________________________________________________________________________________________
+##### SAFE1001: Introduction to the Nova Scotia Occupational Health and Safety Act
+09/13/2019
+##### SAFE1000: Introduction to Workplace Hazardous Materials Information Systems
+09/14/2019
 
 ### Papers & Research
 _______________________________________________________________________________________________________________________________________________
