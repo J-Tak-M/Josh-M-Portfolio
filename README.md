@@ -4,10 +4,9 @@
 2. [Introduction](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#introduction)
 3. [Education](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#education)
 4. [Work & Volunteer Experience](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#work--volunteer-experience)
-5. [Resume](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#resume)
-6. [Certifications & Courses](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#certifications--courses)
-7. [Papers & Research](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#papers--research)
-8. [Scripts & Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#scripts--projects)
+5. [Certifications & Courses](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#certifications--courses)
+6. [Papers & Research](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#papers--research)
+7. [Scripts & Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#scripts--projects)
 
 ### Statement of Originality
 _______________________________________________________________________________________________________________________________________________
@@ -51,10 +50,6 @@ Halifax West Student Government | Halifax West High School
 
 #### Assistant Python Programmer  010/2016 - 04/2019
 Raspberry Pi Life Size 3d Scanner Project | Halifax West High School
-
-
-### Resume
-_______________________________________________________________________________________________________________________________________________
 
 ### Certifications & Courses
 _______________________________________________________________________________________________________________________________________________
