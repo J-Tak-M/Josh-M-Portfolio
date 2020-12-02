@@ -33,13 +33,13 @@ Bella Rose Arts Centre | Halifax West High School
 - As a theatre technician I was responsible for ensuring that the lighting, audio and other technical aspects of theatre performances run safely, smoothly, on schedule and according to the clients’ budget. I coordinated and worked with other members of both the theatre staff, and the client’s staff to ensure that the clients event met if not exceeded their expectations. My primary responsibilities were to: maintain the theatre's technical equipment; meet with clients to figure out their wants and requirements; design lighting or audio environments for events; setup technical equipment; run technical equipment during the event; tear down technical equipment after the event.
 
 #### Assistant Camp Councilor  07/2017 - 08/2017
-Bella Rose Arts Centre  Halifax West High School
+Bella Rose Arts Centre | Halifax West High School
 
 #### Minister of Technology  01/2016 – 06/2018
-Halifax West Student Government  Halifax West High School
+Halifax West Student Government | Halifax West High School
 
 #### Assistant Python Programmer  010/2016 - 04/2019
-Raspberry Pi Life Size 3d Scanner Project  Halifax West High School
+Raspberry Pi Life Size 3d Scanner Project | Halifax West High School
 
 
 ### Resume
