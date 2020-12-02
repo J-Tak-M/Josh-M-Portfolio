@@ -7,6 +7,7 @@
 5. [Certifications & Courses](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#certifications--courses)
 6. [Papers & Research](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#papers--research)
 7. [Scripts & Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#scripts--projects)
+8. [Skills](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#skills)
 
 ### Statement of Originality
 _______________________________________________________________________________________________________________________________________________
@@ -73,3 +74,48 @@ Basic iptables script to implement firewall rules: https://github.com/J-Tak-M/Fi
 
 Basic Powershell script to check computer logs with optional output to a HTML file: https://github.com/J-Tak-M/PowershellScript1
 
+### Skills
+_______________________________________________________________________________________________________________________________________________
+#### Soft Skills
+- Critical Thinking
+- Team Management
+- Research
+- Report Creation
+- Troubleshooting
+- Written and Spoken Communication
+
+#### Technical Skills
+##### General Computer Skills
+- Typing
+- Python 3
+- Bash Scripting
+- Powershell
+- Linux Systems and Terminal (Kali, Mint, Ubuntu, Debian, Ubuntu Server)
+- Windows Systems
+- VMware
+- VirtualBox
+
+##### Cyber Security Skills
+- Windows and Linux Hardening
+- NMAP
+- THC-Hydra
+- Metasploit
+- Wireshark
+- Open Source Intelligence Collection 
+- Image Geolocating
+- Risk Assessments
+- Vulnerability Assessments
+- Nessus
+- Passive reconnaissance
+- Active reconnaissance
+
+##### Other Technical Skills
+- Audio Design
+- Live Audio Mixing
+- Audio Mixing
+- Photography
+- Photo Editing
+- Theatrical Lighting
+- Physical Risk Assessment
+- Lockpicking & physical security bypassing
+- Physical Security 
