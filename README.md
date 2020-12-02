@@ -99,6 +99,8 @@ ________________________________________________________________________________
 - Windows and Linux Hardening
 - Windows Defender Firewall
 - Iptables
+- Netsh
+- Basic understanding of SolarWinds SEM
 - NMAP
 - THC-Hydra
 - Metasploit
