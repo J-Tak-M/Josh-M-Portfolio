@@ -57,7 +57,7 @@ Raspberry Pi Life Size 3d Scanner Project | Halifax West High School
 _______________________________________________________________________________________________________________________________________________
 Below is a link to my current up to date resume:
 
-(https :// github.com / J-Tak-M / Resume) Placeholder while resume is being updated.
+(https :// github . com / J-Tak-M / Josh-M-Portfolio / blob / main / resume . md) Link not available while the resume is being updated.
 
 
 ### Certifications & Courses
