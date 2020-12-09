@@ -4,11 +4,10 @@
 2. [Introduction](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#introduction)
 3. [Education](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#education)
 4. [Work & Volunteer Experience](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#work--volunteer-experience)
-5. [Resume](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#resume)
-6. [Certifications & Courses](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#certifications--courses)
-7. [Papers & Research](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#papers--research)
-8. [Scripts & Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#scripts--projects)
-9. [Skills](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#skills)
+5. [Certifications & Courses](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#certifications--courses)
+6. [Papers & Research](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#papers--research)
+7. [Scripts & Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#scripts--projects)
+8. [Skills](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#skills)
 
 ### Statement of Originality
 _______________________________________________________________________________________________________________________________________________
@@ -52,12 +51,6 @@ Halifax West Student Government | Halifax West High School
 
 #### Assistant Python Programmer  010/2016 - 04/2019
 Raspberry Pi Life Size 3d Scanner Project | Halifax West High School
-
-### Resume
-_______________________________________________________________________________________________________________________________________________
-Below is a link to my current up to date resume:
-
-[Link to Resume](https :// github . com / J-Tak-M / Josh-M-Portfolio / blob / main / resume . md) Link not available while the resume is being updated.
 
 
 ### Certifications & Courses
