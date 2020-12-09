@@ -32,7 +32,7 @@ Halifax, Nova Scotia
 
 ### Work & Volunteer Experience
 _______________________________________________________________________________________________________________________________________________
-#### Theatre Technician | 09/2016 - 09/2019
+#### Theatre Technician | 10/2017 - 09/2019
 Bella Rose Arts Centre | Halifax West High School
 
 *Roles:*
