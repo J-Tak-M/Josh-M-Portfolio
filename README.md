@@ -1,7 +1,7 @@
 # Josh Martin's Portfolio
 ## Index
 1. [Statement of Originality](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#statement-of-originality)
-2. [Introduction](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#introduction)
+2. [About Josh Martin](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#about-josh-martin)
 3. [Education](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#education)
 4. [Work & Volunteer Experience](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#work--volunteer-experience)
 5. [Certifications & Courses](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#certifications--courses)
@@ -15,8 +15,10 @@ This Portfolio contains personal, private, and confidential information with sup
 
 I certify that all information in this portfolio is true and complete.
 
-### Introduction
+### About Josh Martin
 _______________________________________________________________________________________________________________________________________________
+Josh Martin is a second year cyber security student at Nova Scotia Community College, and experienced theatre technician. He is passionate about threat research, analysis, and adversary methodology both in and out of the cybersecurity realm. He considers himself a lifelong student with a constant desire to learn in the workplace, academically, and during his personal time. His background in theatre gives him experience in working in a high stress, fast paced environment, as well as critical thinking, troubleshooting, communication and problem solving skills. He is currently looking for jobs in cybersecurity, preferably in threat research, or analysis positions.
+
 
 ### Education
 _______________________________________________________________________________________________________________________________________________
