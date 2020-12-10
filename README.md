@@ -17,7 +17,7 @@ I certify that all information in this portfolio is true and complete.
 
 ### About Josh Martin
 _______________________________________________________________________________________________________________________________________________
-Josh Martin is a second year cyber security student at Nova Scotia Community College, and experienced theatre technician. He is passionate about threat research, analysis, and adversary methodology both in and out of the cybersecurity realm. He considers himself a lifelong student with a constant desire to learn in the workplace, academically, and during his personal time. His background in theatre gives him experience in working in a high stress, fast paced environment, as well as critical thinking, troubleshooting, communication and problem solving skills. He is currently looking for jobs in cybersecurity, preferably in threat research, or analysis positions.
+Josh Martin is a second year cyber security student at Nova Scotia Community College, and experienced theatre technician. He is passionate about threat research, analysis, and adversary methodology both in and out of the cybersecurity realm. He considers himself a lifelong student with a constant desire to learn in the workplace, academically, and during his personal time. His background in theatre gives him experience in working in a high stress, fast paced environment, as well as critical thinking, troubleshooting, communication and problem solving skills. Outside of work and school, Josh enjoys photography, cooking, coffee brewing, and learning open source intelligence techniques. He is currently looking for jobs in cybersecurity, preferably in threat research, or analysis positions.
 
 
 ### Education
