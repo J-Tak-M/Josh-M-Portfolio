@@ -17,7 +17,7 @@ I certify that all information in this portfolio is true and complete.
 
 ### About Josh Martin
 _______________________________________________________________________________________________________________________________________________
-Josh Martin is a second year cyber security student at Nova Scotia Community College, and experienced theatre technician. He is passionate about threat research, analysis, and adversary methodology both in and out of the cybersecurity realm. He considers himself a lifelong student with a constant desire to learn in the workplace, academically, and during his personal time. His background in theatre gives him experience in working in a high stress, fast paced environment, as well as critical thinking, troubleshooting, communication and problem solving skills. Outside of work and school, Josh enjoys photography, cooking, coffee brewing, and learning open source intelligence techniques. He is currently looking for jobs in cybersecurity, preferably in threat research, or analysis positions.
+Josh Martin is a second year cyber security student at Nova Scotia Community College, and experienced theatre technician. He is passionate about threat research, analysis, and adversary methodology both in and out of the cybersecurity realm. He considers himself a lifelong student with a constant desire to learn in the workplace, academically, and during his personal time. His background in theatre gives him experience in working in a high stress, fast paced environment, as well as critical thinking, troubleshooting, communication and problem solving skills. Outside of work and school, Josh enjoys photography, cooking, coffee brewing, and learning open source intelligence techniques. He is currently looking to start a career in cybersecurity, preferably in a threat intelligence role.
 
 
 ### Education
@@ -37,6 +37,7 @@ ________________________________________________________________________________
 Bella Rose Arts Centre | Halifax West High School
 
 *Roles:*
+- Head Technician
 - Audio Technician
 - Lighting Technician
 - Security
@@ -48,11 +49,20 @@ Bella Rose Arts Centre | Halifax West High School
 #### Assistant Camp Councilor  07/2017 - 08/2017
 Bella Rose Arts Centre | Halifax West High School
 
+*Responsibilities:*
+- As a assistant camp councilor at the theatre camps put on by the Bella Rose Arts Centre, my roles were as follows: to assist the full camp councilors in any activities or lessons they had planned; look after the safety and health of the children while making sure they were entertained and behaved; providing technical support to the camp as a whole; and assisting in planning activities throughout the weeks.
+
 #### Minister of Technology  01/2016 – 06/2018
 Halifax West Student Government | Halifax West High School
 
+*Responsibilities:*
+- As a minister of technology in the Halifax West Student Government, my roles was to provide and operate technical equipment to the rest of the student government. Whether that be audio, lighting, practical effects, communication, computers, networking, or anything else that may come up, it was my responsibility to provide, plan, setup, operate, and tear down the equipment in a safe, and timely manner while providing a high quality of service to the rest of the student government.
+
 #### Assistant Python Programmer  010/2016 - 04/2019
-Raspberry Pi Life Size 3d Scanner Project | Halifax West High School
+Raspberry Pi Life Size 3D Scanner Project | Halifax West High School
+
+*Responsibilities:*
+- As a assistant python programmer for the raspberry pi life size 3D scanner project, it was my responsibility to test, and write code that would go up the chain to the more full time programmer for final approval before being implamented in the project.
 
 
 ### Certifications & Courses
@@ -64,7 +74,7 @@ ________________________________________________________________________________
 
 ### Papers & Research
 _______________________________________________________________________________________________________________________________________________
-Below is a link to the repository containing all papers and research documents I have written.
+Below is a link to the repository containing work samples of research papers I have written.
 
 https://github.com/J-Tak-M/Papers-Research
 
@@ -119,6 +129,8 @@ ________________________________________________________________________________
 ##### Other Technical Skills
 - Audio Design
 - Live Audio Mixing
+- Event Management
+- Event Organization
 - Audio Mixing
 - Photography
 - Photo Editing
