@@ -4,7 +4,7 @@
 2. [About Josh Martin](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#about-josh-martin)
 3. [Education](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#education)
 4. [Work & Volunteer Experience](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#work--volunteer-experience)
-5. [Certifications, Courses, and Memberships](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#certifications--courses)
+5. [Certifications, Courses, and Memberships](https://github.com/J-Tak-M/Josh-M-Portfolio/blob/main/README.md#certifications-courses-and-memberships)
 6. [Papers & Research](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#papers--research)
 7. [Scripts & Projects](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#scripts--projects)
 8. [Skills](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#skills)
