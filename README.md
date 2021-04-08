@@ -97,6 +97,7 @@ ________________________________________________________________________________
 - Report Creation
 - Troubleshooting
 - Written and Spoken Communication
+- Analysis
 
 #### Technical Skills
 ##### General Computer Skills
