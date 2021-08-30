@@ -37,7 +37,7 @@ ________________________________________________________________________________
 Northwood Inc. | Halifax Nova Scotia
 
 *Responsibilities:*
-- Provided technical support and guidance to staff and residents throughout the Northwood campuses. Worked to maintain IT and security posters of the company.
+- Provided technical support and guidance to staff and residents throughout the Northwood campuses. Worked to maintain/upgrade the IT and security posture of the organization.
 
 #### Theatre Technician | 10/2017 - 09/2019
 Bella Rose Arts Centre | Halifax West High School
