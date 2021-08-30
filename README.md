@@ -64,7 +64,7 @@ Halifax West Student Government | Halifax West High School
 *Responsibilities:*
 - As a minister of technology in the Halifax West Student Government, my roles was to provide and operate technical equipment to the rest of the student government. Whether that be audio, lighting, practical effects, communication, computers, networking, or anything else that may come up, it was my responsibility to provide, plan, setup, operate, and tear down the equipment in a safe, and timely manner while providing a high quality of service to the rest of the student government.
 
-#### Assistant Python Programmer  010/2016 - 04/2019
+#### Assistant Python Programmer  010/2016 - 04/2018
 Raspberry Pi Life Size 3D Scanner Project | Halifax West High School
 
 *Responsibilities:*
