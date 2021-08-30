@@ -33,6 +33,12 @@ Halifax, Nova Scotia
 
 ### Work & Volunteer Experience
 _______________________________________________________________________________________________________________________________________________
+#### IT HelpDesk | 08/2021 - Current
+Northwood Inc. | Halifax Nova Scotia
+
+*Responsibilities:*
+- Provided technical support and guidance to staff and residents throughout the Northwood campuses. Worked to maintain IT and security posters of the company.
+
 #### Theatre Technician | 10/2017 - 09/2019
 Bella Rose Arts Centre | Halifax West High School
 
